@@ -1,4 +1,4 @@
-a=raw_input("")
+a=int(input(""))
 
 if(a%2==0):
   
